@@ -1,0 +1,43 @@
+C:\Users\Ethan.Uong\Desktop\WPF\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\Ethan.Uong\Desktop\WPF\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\Ethan.Uong\Desktop\WPF\Practice\Practice\obj\Debug\MainWindow.baml
+C:\Users\Ethan.Uong\Desktop\WPF\Practice\Practice\obj\Debug\MainWindow.g.cs
+C:\Users\Ethan.Uong\Desktop\WPF\Practice\Practice\obj\Debug\App.g.cs
+C:\Users\Ethan.Uong\Desktop\WPF\Practice\Practice\obj\Debug\Practice_MarkupCompile.cache
+C:\Users\Ethan.Uong\Desktop\WPF\Practice\Practice\obj\Debug\Practice.g.resources
+C:\Users\Ethan.Uong\Desktop\WPF\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\Ethan.Uong\Desktop\WPF\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.Cache
+C:\Users\Ethan.Uong\Desktop\WPF\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\Ethan.Uong\Desktop\WPF\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\Ethan.Uong\Desktop\WPF\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\Ethan.Uong\Desktop\WPF\Practice\Practice\obj\Debug\Practice.pdb
+G:\USERS\EUONG\WPF Data Validation Example\Practice\bin\Debug\Practice.exe.config
+G:\USERS\EUONG\WPF Data Validation Example\Practice\obj\Debug\Practice.exe
+G:\USERS\EUONG\WPF Data Validation Example\Practice\obj\Debug\Practice.pdb
+G:\USERS\EUONG\WPF Data Validation Example\Practice\bin\Debug\Practice.exe
+G:\USERS\EUONG\WPF Data Validation Example\Practice\bin\Debug\Practice.pdb
+G:\USERS\EUONG\WPF Data Validation Example\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+G:\USERS\EUONG\WPF Data Validation Example\Practice\obj\Debug\MainWindow.baml
+G:\USERS\EUONG\WPF Data Validation Example\Practice\obj\Debug\MainWindow.g.cs
+G:\USERS\EUONG\WPF Data Validation Example\Practice\obj\Debug\App.g.cs
+G:\USERS\EUONG\WPF Data Validation Example\Practice\obj\Debug\Practice_MarkupCompile.cache
+G:\USERS\EUONG\WPF Data Validation Example\Practice\obj\Debug\Practice.g.resources
+G:\USERS\EUONG\WPF Data Validation Example\Practice\obj\Debug\Practice.Properties.Resources.resources
+G:\USERS\EUONG\WPF Data Validation Example\Practice\obj\Debug\Practice.csproj.GenerateResource.Cache
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\WPF Data Validation Example\Practice\bin\Debug\Practice.exe.config
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\WPF Data Validation Example\Practice\obj\Debug\Practice.exe
+C:\Users\Ethan.Uong\Documents\Ethan's Resources\WPF\WPF Data Validation Example\Practice\obj\Debug\Practice.pdb
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\bin\Debug\Practice.exe.config
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\bin\Debug\Practice.exe
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\bin\Debug\Practice.pdb
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\obj\Debug\Practice.csprojAssemblyReference.cache
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\obj\Debug\MainWindow.baml
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\obj\Debug\MainWindow.g.cs
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\obj\Debug\App.g.cs
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\obj\Debug\Practice_MarkupCompile.cache
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\obj\Debug\Practice.g.resources
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\obj\Debug\Practice.exe
+C:\Users\etuon\Documents\MBI Code\WPF\WPF Data Validation Example\Practice\obj\Debug\Practice.pdb

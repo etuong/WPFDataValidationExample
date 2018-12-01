@@ -1,0 +1,30 @@
+﻿<Window x:Class="Practice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Demo" Height="300" Width="300">
+
+    <Window.Resources>
+        <!-- The tool tip for the TextBox to display the validation error message -->
+        <Style TargetType="TextBox">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="true">
+                    <Setter Property="ToolTip" Value="{Binding RelativeSource={x:Static RelativeSource.Self}, Path=(Validation.Errors)[0].ErrorContent}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <StackPanel>
+        <CheckBox Margin="20" Content="Check here to turn on validation" IsChecked="{Binding CanValidate, Mode=TwoWay}"/>
+        
+        <StackPanel Margin="20">
+            <TextBlock>Enter your name:</TextBlock>
+            <TextBox Text="{Binding Name, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
+        </StackPanel>
+
+        <StackPanel Margin="20">
+            <TextBlock>Enter your age:</TextBlock>
+            <TextBox Text="{Binding Age, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" />
+        </StackPanel>
+    </StackPanel>
+</Window>
